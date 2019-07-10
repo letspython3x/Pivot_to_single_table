@@ -1,0 +1,11 @@
+Site ID,NPA-MXX,Interface,Facility Type,CLLI Code,bandwidth,Access Level,bandwidth,Access Level,bandwidth,Access Level
+Site ID 1,NPA-MXX 1,Interface 1,Facility Type 1,CLLI Code,1 Gig/100MB,$100,1.5Gbps,$200,2 Gig,$300
+Site ID 2,NPA-MXX 2,Interface 2,Facility Type 2,CLLI Code,10Mbps,$101,20Mbps,$201,50Mbps,$301
+Site ID 3,NPA-MXX 3,Interface 3,Facility Type 3,CLLI Code,10Mbps,$102,20mMbps,$202,,
+Site ID 4,NPA-MXX 4,Interface 4,Facility Type 4,CLLI Code,1000M,$103,100Mbps,$203,,
+Site ID 5,NPA-MXX 5,Interface 5,Facility Type 5,CLLI Code,10Mbps,$104,20Mbps,$204,10M,$304
+Site ID 6,NPA-MXX 6,Interface 6,Facility Type 6,CLLI Code,20Mbps,$105,1G,$205,10 M,$305
+Site ID 7,NPA-MXX 7,Interface 7,Facility Type 7,CLLI Code,20mMbps,$106,1GIGE,$206,FET/1Gbps,$306
+Site ID 8,NPA-MXX 8,Interface 8,Facility Type 8,CLLI Code,100Mbps,$107,GIG,$207,100M,$307
+Site ID 9,NPA-MXX 9,Interface 9,Facility Type 9,CLLI Code,20Mbps,$108,GIG-E,$208,10GigE,$308
+Site ID 10,NPA-MXX 10,Interface 10,Facility Type 10,CLLI Code,1G,$109,GBPS,$209,2 Gig,$309
